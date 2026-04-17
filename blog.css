@@ -2,7 +2,7 @@ main{
     background-color: rgb(249, 249, 255);
 }
 .menu-categorias{
-    width: 1140px;
+    width: 1141px;
     margin: 0 auto;
     padding: 90px 15px;
     display: flex;
@@ -57,7 +57,7 @@ main{
 /* blog */
 
 .blog{
-    width: 1140px;
+    width: 1141px;
     margin: 0 auto;
     padding-inline: 15px;
     display: grid;
@@ -158,16 +158,16 @@ aside hr{
 }
 /* perfil */
 .conteudo-aside{
-    margin: 30px;
-    padding-bottom: 30px;
+    margin: 32px;
+    padding-bottom: 32px;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
 }
 .perfil img{
-    width: 120px;
-    height: 120px;
+    width: 122px;
+    height: 122px;
     border-radius: 100px;
 }
 .perfil h4{
@@ -225,7 +225,7 @@ aside hr{
     cursor: pointer;
 }
 .post-categories li{
-    padding: 15px 0 8px;
+    padding: 16px 0 8px;
     display: flex;
     border-bottom: 1px dotted #eee;
 }
@@ -233,7 +233,7 @@ aside hr{
     margin-left: auto;
 }
 .post-categories + hr{
-    margin-top: 15px;
+    margin-top: 16px;
 }
 .post-categories li:hover p, li{
     color: var(--gold);
