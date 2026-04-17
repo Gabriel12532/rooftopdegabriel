@@ -1,5 +1,5 @@
 #hero {
-  height: 400px;
+  height: 405px;
   background-size: auto;
   background-image: url(https://preview.colorlib.com/theme/rooftop/img/banner-bg.png);
 }
@@ -35,11 +35,11 @@
   font-size: 15px;
 }
 .notas-chef {
-  margin-block: 120px;
+  margin-block: 121px;
 }
 .chef-img {
   position: static;
 }
 .carrosel {
-  margin-block: 120px;
+  margin-block: 121px;
 }
